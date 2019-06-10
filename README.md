@@ -16,4 +16,4 @@
 ![alt text](https://github.com/utkarshsingh09/data_analysis_of_prisoner_dataset/blob/master/stack.png)
 
 # output: 100% stacked bar chart
-![alt text](https://github.com/utkarshsingh09/data_analysis_of_prisoner_dataset/blob/master/100%stack.png)
+![alt text](https://github.com/utkarshsingh09/data_analysis_of_prisoner_dataset/blob/master/100%25stack.png)
